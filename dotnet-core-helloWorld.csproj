@@ -5,7 +5,7 @@
     <DebugType>portable</DebugType>
     <AssemblyName>dotnet-core-helloWorld</AssemblyName>
     <OutputType>Exe</OutputType>
-    <PackageId>dotnet-core-helloWorld</PackageId>
+    <PackageId>dotnet-core-helloWorld12</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
